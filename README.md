@@ -22,9 +22,9 @@ The project is modular, with 3 main files:
 
 | File                | Description                                                  |
 |---------------------|--------------------------------------------------------------|
-| `weekly_planner.py` | Generates a doctor schedule week by week.                   |
-| `monthly_planner.py`| Monthly planning with optimization and output export (CSV). |
-| `yearly_planner.py` | (Planned) Consolidates all months for full-year optimization.|
+| `weekly_medical_staff_planner.py` | Generates a doctor schedule week by week.                   |
+| `monthly_medical_staff_planner.py`| Monthly planning with optimization and output export (CSV). |
+| `yearly_medical_staff_planner.py` | (Planned) Consolidates all months for full-year optimization.|
 
 ---
 
